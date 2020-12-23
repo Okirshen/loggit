@@ -1,0 +1,8 @@
+{
+	"loggit": {
+		"type": "github",
+		"owner": "Okirshen",
+		"repo": "loggit",
+		"desc": "A simple logger middleware"
+	}
+}
